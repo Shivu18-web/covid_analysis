@@ -1,1 +1,2 @@
 # covid_analysis
+This project provides a comprehensive analysis of COVID-19 data using the Django web framework. It visualizes key metrics such as total cases, recoveries, and deaths across different regions using interactive charts. The application fetches and processes real-time or static datasets to deliver insightful trends and comparisons. Users can explore the data through a clean, user-friendly interface built with HTML, CSS, and JavaScript. The goal of this project is to enhance public understanding of the pandemic through data-driven insights.
